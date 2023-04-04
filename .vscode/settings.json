@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "fstream": "cpp",
+        "bit": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "ios": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "ostream": "cpp",
+        "streambuf": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "tuple": "cpp"
+    }
+}
