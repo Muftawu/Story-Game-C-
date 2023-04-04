@@ -1,6 +1,6 @@
 #if !defined(Profiles)
 #define Profiles
-
+ 
 #include <iostream>
 #include <string>
 #include <fstream>
@@ -132,6 +132,8 @@ class player_profile {
             }
             if (fetch_progress_state) {
                 cout << "\n\t\t...Starting game from\n";
+                chapter_1 ch1;
+                ch1.start_chapter();
             }
             else{
                 cout << "\n\t\t\a...No user progress data found..." << endl;
