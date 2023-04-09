@@ -1,0 +1,44 @@
+Option 1A: You stay still and quiet, hoping the animal will leave. After a few tense moments, the rustling stops, and you hear nothing but the sound of your own breathing. Do you:
+A1. Wait a little longer before moving.
+A2. Slowly start to pack up your things and move on.
+A3. Try to get a better look at the animal from a distance.
+
+Option 1B: You make noise to scare the animal away. You shout and bang on your shelter, causing the animal to run off into the night. Do you:
+B1. Stay up for a while to make sure the animal doesn't come back.
+B2. Try to get some sleep now that the animal is gone.
+B3. Build a bigger, sturdier shelter to protect yourself from future animal encounters.
+
+Option 1C: You investigate the source of the sound. You cautiously approach the bushes, and to your relief, you find a small deer grazing on some grass. Do you:
+C1. Watch the deer for a while before returning to your shelter.
+C2. Try to catch the deer for food.
+C3. Keep moving, as you don't want to attract predators that may be lurking nearby.
+
+Option 2A: You climb down and head towards the light. As you get closer, you realize that it's not a campfire but rather a small village. Do you:
+A1. Approach the village and ask for help.
+A2. Stay hidden and observe the village from a distance.
+A3. Circle around the village to avoid being seen.
+
+Option 2B: You stay put and wait for morning. The night is long and cold, and you barely get any sleep. When the sun finally rises, you can see your surroundings more clearly. Do you:
+B1. Continue climbing trees to get a better view.
+B2. Stay put and try to find some food and water nearby.
+B3. Pack up your things and start walking in a direction that seems promising.
+
+Option 2C: You try to shout for help. You yell and wave your arms, but you realize that the helicopter is too far away to hear or see you. Do you:
+C1. Keep shouting and waving, hoping that someone will eventually notice you.
+C2. Use your surroundings to create a more visible signal, such as a large X on the ground.
+C3. Give up and try another option.
+
+Option 3A: You approach the cabin and knock on the door. A friendly old man answers the door and invites you in for some food and rest. Do you:
+A1. Accept the man's offer and stay for a while.
+A2. Thank the man but decline his offer, as you want to keep moving.
+A3. Be cautious and keep your guard up, as you don't know this man.
+
+Option 3B: You keep walking downstream. You hike for hours, but the scenery remains the same. Do you:
+B1. Turn around and head back to the cabin.
+B2. Keep walking downstream, hoping to find something soon.
+B3. Try to cross the river to explore the other side.
+
+Option 3C: You investigate the cabin from a distance. You notice that there are no signs of life around the cabin, and it looks abandoned. Do you:
+C1. Approach the cabin and search for supplies.
+C2. Stay away from the cabin and continue your search for civilization.
+C3. Investigate the cabin more thoroughly to see if there are any clues as to why it's abandoned.
